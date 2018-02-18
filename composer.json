@@ -1,0 +1,15 @@
+{
+    "name": "chriswhite/udp",
+    "authors": [
+        {
+            "name": "Chris White",
+            "email": "cwhite@intouchinsight.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "UDP\\": "src/"
+        }
+    },
+    "require": {}
+}
